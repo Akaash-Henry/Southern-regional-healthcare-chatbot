@@ -1,2 +1,2 @@
 # Southern-regional-healthcare-chatbot
-A southern regional language healthcare chatbot that is used for medical assistance in regional languages such as Tamil
+A southern regional language healthcare chatbot that is used for medical assistance in regional languages such as Tamil, Telugu, Malayalam, Kanadam. It provides users witha friendly user interface where they can select between various languages of their choice and have a better understanding of what disease and prescriptions to take based on the symptoms of the disease which they have.
